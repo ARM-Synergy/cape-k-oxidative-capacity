@@ -1,4 +1,4 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
+<img src="https://github.com/ARM-Development/cape-k-student-workshop-2025/blob/main/images/cape-k-sticker.png?raw=true" alt="thumbnail" width="300"/>
 
 
 # Sulfur cycle and oxidation chemistry
